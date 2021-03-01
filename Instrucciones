@@ -1,0 +1,55 @@
+############			CAMBIOS
+
+-El titlulo de la ventana pasa a ser "LABORATORIO COMPUTACION GRAFICA. MARTIN MOCCIA".
+-El color de la barra de herramientas en la paleta de colores, (antes negro, ahora gris oscuro).
+-Los nombre de los archivos, (ahora se leen con un for).
+-La identacion, (¡ahora es solo 300 lineas de codigo!).
+
+############			FUNCIONES
+
+############	BARRA DE HERRAMIENTAS
+	1					2						3						4
+1	GUARDAR				NUEVO(Limpiar Canvas)	GOMA(cuadrada)			CAMBIAR FONDO CON EL COLOR ACTUAL
+2	Abrir Guardado		INVERTIR COLOR			GOMA(iba a ser redonda)	CAMBIAR FONDO DE VUALTA AL BLANCO
+3	PINCEL CONSTANTE	PINCEL LINEAL			PNCEL	CUADRATICO		AUMENTAR TAMAÑO DE PINCEL
+4	RETANGULO RELLENO	RECTANGULO 				RECTA-POLILINEA			REDUCIR TAMAÑO DE PINCEL
+
+############	FUNCIONES CLICK DERECHO
+
+1 	NUEVO(Limpiar Canvas)
+2	GUARDAR
+3	ABRIR GUARDADO (abre el archivo que se guardo)
+4	PINCEL CONSTANTE
+5	PINCEL LINEAL
+6	PINCEL CUADRATICO
+7	PINCEL MUY CHICO	(tamaño=10)
+8	PINCEL CHICO		(tamaño=20)
+9	PINCEL MEDIANO		(tamaño=30)
+10	PINCEL GRANDE 		(tamaño=40)
+11	PINCELMUY GRANDE	(tamaño=50)
+12	MAS ROJO			(un tono mas rojo)
+13	MENOS ROJO			(un tono menos)
+14	MAS VERDE			(un tono mas verde)
+15	MENOS VERDE			(un tono menos verde)
+16	MAS AZUL			(un tono mas azul)
+17	MENOS AZUL			(un tono menos azul)
+
+############	FUNCIONES DE TECLADO
+
+'1'	COLOR BLANCO			'2'	COLOR NEGRO				'3'	COLOR ROJO			'4'	COLOR AZUL
+'5'	COLOR VERDE				'6'	COLOR CYAN				'7'	COLOR AMARILLO		'8'	COLOR MAGENTA
+'9'	INVERTIR COLOR			'0'	GOMA DE BORRAR	
+'q'	MENOS ROJO				'w'	MAS ROJO				'a'	MENOS VERDE			's'	MAS VERDE
+'z'	MENOS AZUL				'x'	MAS AZUL
+'r'	TAMAÑO MUY CHICO		'e'	TAMAÑO CHICO			'd'	TAMAÑO MEDIANO		
+'c'	TAMAÑO GRANDE			'f'	TAMAÑO MUY GRANDE	
+'t'	NUEVO(Limpiar Canvas)	'g'	GARDAR					'b'	ABRIR GUARDADO
+'o'	PINCEL CONSTANTE		'k'	PINCEL LINEAL			'm'	PINCEL CUADRATICO
+'i'	RECTANGULO RELLENO		'j'	RECTANGULO				'n'	RECTA-POLILINEA
+'u'	CAMBIAR FONDO			'y'	CAMBIAR FONDO A BLANCO
+
+
+
+
+
+
