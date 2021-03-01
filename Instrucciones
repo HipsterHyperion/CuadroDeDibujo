@@ -1,9 +1,3 @@
-############			CAMBIOS
-
--El titlulo de la ventana pasa a ser "LABORATORIO COMPUTACION GRAFICA. MARTIN MOCCIA".
--El color de la barra de herramientas en la paleta de colores, (antes negro, ahora gris oscuro).
--Los nombre de los archivos, (ahora se leen con un for).
--La identacion, (¡ahora es solo 300 lineas de codigo!).
 
 ############			FUNCIONES
 
